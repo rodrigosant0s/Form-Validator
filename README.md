@@ -15,7 +15,3 @@
 ```bash
 $ git clone https://github.com/rodrigosant0s/Form-Validator.git
 ```
----
-
-This project is under the [MIT license](./LICENSE).
-
